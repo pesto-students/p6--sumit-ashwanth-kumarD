@@ -1,5 +1,6 @@
 
 <h1>Week-1 Assignment </h1>
+<h3>Exercise:1.1</h3>
 1.When a user enters an URL in the browser, how does the browser fetch the desired result ? Explain this with the below in mind and Demonstrate this by drawing a diagram for the same.
 
 <ul><li>a. What is the main functionality of the browser?</li>
@@ -112,7 +113,7 @@ To ensure faster painting on screen the screen is usually broken down into layer
   </details>
   
   
-  
+  <h3>Exercise1.2:<a href="http://week1-ash.42web.io/?i=1"> http://week1-ash.42web.io</a></h3>
   
   
   

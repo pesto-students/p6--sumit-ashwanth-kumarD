@@ -21,7 +21,12 @@ https:// responds to the protocol mention the browser to transfer the data over 
 Codesandbox.io is the Domain name .
 A web browser takes URL as input the browser has to lookup for the DNS and identify the IP of the server associated with the DNS  on which the site is being hosted and establishes a Secure connection with the server and transfer data over the TCP connection with either of the protocols(HTTP or HTTPS) and the  Rendering Engine which is the most crucial part of the browser is responsible for displaying the content in structured form.
 A web browser has various functional components. Browsers also support storage mechanisms such as localStorage, IndexedDB, WebSQL and FileSystem</p>
-![image](https://user-images.githubusercontent.com/114641619/193077913-a79e582d-3845-436c-80ed-ca20729a5483.png)
+
+
+<img src="https://i.ibb.co/RvH5rpz/Group-1-1.png" alt="Group-1-1" border="0"><br />
+
+
+
   </details>
   
   
@@ -37,9 +42,8 @@ A web browser has various functional components. Browsers also support storage m
 <li>JavaScript interpreter:Helpful in  parsing and execute JavaScript code.</li>
 <li>Data storage. This is a persistence layer. The browser may need to save all sorts of data locally, such as cookies.</li>
   </p>
-  ![Group 1 (1)](https://user-images.githubusercontent.com/114641619/193079037-b8f52c0c-85b3-4e9f-b019-d2085030a87d.png)
-    ![image](https://user-images.githubusercontent.com/114641619/193079219-58e012d8-cd0b-42e6-9f49-ea951b4780f6.png)
-  
+<img src="https://i.ibb.co/rxc1m8G/renderengine.png" alt="renderengine" border="0"><br /><br />
+  <img src='https://i.postimg.cc/W4GZfdnx/Group-1-1.png' border='0' alt='Group-1-1'/>
   </details>
   
   
@@ -69,10 +73,9 @@ Some render objects correspond to a DOM node but not in the same place in the tr
 <p>Parsing is the process in which analyzing and converting of program into a 
   interpreted format that is available at run time and parser parse’s  tokenized input input to document building upto DOM 
   </p><br>
-  ![image](https://user-images.githubusercontent.com/114641619/193090831-70929f9d-83b2-4d6f-906a-ee7e89f85bc6.png)   
-  <p>In simple terms Parsing is process in which the data chunk received over the network are converted into DOM ,CSSOM which is ten painted onto screen by rendering engine
-The DOM is exposed and manipulated  by API'S in javascript ,If HTML'S Page received id greater than 14KB then HTML,CSS,JS must be processed
-  
+   <p>In simple terms Parsing is process in which the data chunk received over the network are converted into DOM ,CSSOM which is ten painted onto screen by rendering engine
+The DOM is exposed and manipulated  by API'S in javascript ,If HTML'S Page received id greater than 14KB then HTML,CSS,JS must be processed<br>
+<img src="https://i.ibb.co/0VwSFNm/Picture1.png" alt="Picture1" border="0"><br >
   <h5>HTML Parser(DOM)</h5>
   When a browser receive bytes of data that needs to be converted to DOM ,It follws follwoing steps:
   <ol>

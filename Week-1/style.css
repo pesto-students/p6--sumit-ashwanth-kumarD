@@ -42,12 +42,34 @@
 padding-top:80px;
   }
 
-  table{
+ table{
   width:100%;
-   border-collapse: collapse;
-margin-left: 50px;
- 
+  margin-left:5%;
+
+ padding-right:10%;
     }
+	tr{
+		margin-right:10px;
+		
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
   td{
     text-align: center;
     padding:10px;

@@ -64,8 +64,7 @@
       animation-direction: linear;
     }
     #main:hover #bottomright{
-     /* transform: rotate(90deg);
-     */
+    
      animation-name:moveright ;
       animation-duration: 2s;
       animation-iteration-count: infinite;

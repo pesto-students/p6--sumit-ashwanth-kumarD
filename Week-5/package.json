@@ -1,0 +1,13 @@
+{
+  "name": "week-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "5.4.js",
+  "scripts": {
+    "jest":"jest --env=node --colors --coverage test",
+    "test": "npm run jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

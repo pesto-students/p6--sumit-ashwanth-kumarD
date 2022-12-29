@@ -1,0 +1,33 @@
+{
+  "name": "url-shortner",
+  "version": "1.0.0",
+  "description": "Shortent the given urls",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "0.27.2",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-scripts": "4.0.0",
+    "uuid": "8.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "",
+  "license": "ISC",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

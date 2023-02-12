@@ -1,6 +1,4 @@
-#Check the live version of my weather app
-
-https://weatherapp-byashwanth.netlify.app/
+#Sentry has been uploaded in the above weatherapp inorder to keep track of real time errors,crash logs etc.
 
 # Getting Started with Create React App
 
